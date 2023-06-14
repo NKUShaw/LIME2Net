@@ -5,3 +5,5 @@
 由于机能限制，我只能提供standard NN和 standard NN + GradReg的两个权重
 
 如果你想要重新训练权重，请在这里下载源码: <https://github.com/kylematoba/lcnn>
+
+Visualization中有两个权重的LIME局部解释块的可视化结果
