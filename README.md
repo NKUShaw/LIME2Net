@@ -1,9 +1,11 @@
 # XAI-LCNN
 
-如果你想需要训练权重，请在这里下载: <https://pan.baidu.com/s/1V6Q7Y8nmrjROhBRNGprycA?pwd=NK20>，密码：NK20
+If you need the training weights, please download them here.: <https://pan.baidu.com/s/1V6Q7Y8nmrjROhBRNGprycA?pwd=NK20>，password：NK20
 
-由于机能限制，我只能提供standard NN和 standard NN + GradReg的两个权重
+Due to the limitation of computation, I can only provide the two weights of the standard NN and the standard NN + GradReg.
 
-如果你想要重新训练权重，请在这里下载源码: <https://github.com/kylematoba/lcnn>
+If you want to re-train, please click here: <https://github.com/kylematoba/lcnn>
 
-Visualization中有两个权重的LIME局部解释块的可视化结果
+You don't need to adjust the super-parameters, follow the authors.
+
+You can draw a local interpreting patch on <https://github.com/NKUShaw/LIME2Net>
