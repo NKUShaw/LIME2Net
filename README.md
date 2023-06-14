@@ -8,4 +8,4 @@ If you want to re-train, please click here: <https://github.com/kylematoba/lcnn>
 
 You don't need to adjust the super-parameters, follow the authors.
 
-You can draw a local interpreting patch on <https://github.com/NKUShaw/LIME2Net>
+You can draw a local interpreting patch on <https://github.com/NKUShaw/LIME2Net/Lime2Net.ipynb>
